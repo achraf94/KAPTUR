@@ -19,6 +19,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "bootstrap-datepicker": "^1.8.0",
+    "chosen": "0.0.2",
     "jquery": "^3.3.1"
   }
 }

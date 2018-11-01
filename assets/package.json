@@ -1,0 +1,25 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achraf94/KAPTUR.git"
+  },
+  "author": "Achraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achraf94/KAPTUR/issues"
+  },
+  "homepage": "https://github.com/achraf94/KAPTUR#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-datepicker": "^1.8.0",
+    "chosen": "0.0.2",
+    "jquery": "^3.3.1"
+  }
+}
